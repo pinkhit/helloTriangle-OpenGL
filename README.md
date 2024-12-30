@@ -1,1 +1,1 @@
-# helloTriangle-OpenGL
+# Hello Triangle: OpenGL
